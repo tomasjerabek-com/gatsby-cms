@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Orienťáček Sedlčánky
-image: /img/dscf2550.jpg
+title: sdfgdsfg
+image: /img/chemex.jpg
 heading: Great coffee with a conscience
-subheading: klub orientačního běhu
+subheading: adfgafg
 mainpitch:
   title: Why Kaldi
   description: >
@@ -17,7 +17,7 @@ description: Kaldi is the ultimate spot for coffee lovers who want to learn
   knowledge to anyone.
 intro:
   blurbs:
-    - image: /img/img_0761.jpg
+    - image: /img/apple-touch-icon.png
       text: |
         text
     - image: /img/coffee.png
